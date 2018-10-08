@@ -40,8 +40,10 @@
 		<Item Name="OPV.vi" Type="VI" URL="../OPV.vi"/>
 		<Item Name="Porcentaje_Delta.vi" Type="VI" URL="../Porcentaje_Delta.vi"/>
 		<Item Name="Pruebas.vi" Type="VI" URL="../Pruebas.vi"/>
+		<Item Name="SaveExcel.vi" Type="VI" URL="../SaveExcel.vi"/>
 		<Item Name="SensorColorSubVI2.vi" Type="VI" URL="../SensorColorSubVI2.vi"/>
 		<Item Name="SensorcolorV2.vi" Type="VI" URL="../SensorcolorV2.vi"/>
+		<Item Name="TDMS.vi" Type="VI" URL="../TDMS.vi"/>
 		<Item Name="VoltajeCorte.vi" Type="VI" URL="../VoltajeCorte.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
